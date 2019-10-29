@@ -1,6 +1,9 @@
 {
-  "name": "helper-nearformTheme",
+  "name": "@toolmaker/helper-nearformTheme",
   "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Core NearForm theme",
   "main": "dist/index.js",
   "module": "src/index.js",
