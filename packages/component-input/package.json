@@ -1,6 +1,9 @@
 {
-  "name": "component-input",
+  "name": "@toolmaker/component-input",
   "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "A simple input component",
   "main": "dist/index.js",
   "module": "src/index.js",

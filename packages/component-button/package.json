@@ -1,6 +1,9 @@
 {
-  "name": "component-button",
+  "name": "@toolmaker/component-button",
   "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "A simple button component",
   "main": "dist/index.js",
   "module": "src/index.js",

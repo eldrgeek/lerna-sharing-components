@@ -1,6 +1,9 @@
 {
-  "name": "component-login-form",
+  "name": "@toolmaker/component-login-form",
   "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "A simple login form component",
   "main": "dist/index.js",
   "module": "src/index.js",
