@@ -8,10 +8,10 @@
   "main": "dist/index.js",
   "module": "src/index.js",
   "author": "NearForm",
-  "dependencies": {
+  "peerDependencies": {
     "@toolmaker/helper-nearformtheme": "^0.0.1",
-    "component-button": "^0.0.1",
-    "component-input": "^0.0.1",
+    "@toolmaker/component-button": "^0.0.1",
+    "@toolmaker/component-input": "^0.0.1",
     "react": "^15.6.1"
   },
   "gitHead": "01b5b9472da7bc33a46f79c93e3121c9a71f1ba7"

@@ -8,7 +8,7 @@
   "main": "dist/index.js",
   "module": "src/index.js",
   "author": "NearForm",
-  "dependencies": {
+  "peerDependencies": {
     "@toolmaker/helper-nearformtheme": "^0.0.1",
     "react": "^15.6.1",
     "styled-components": "^2.1.0"
