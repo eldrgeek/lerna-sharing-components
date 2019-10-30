@@ -70,5 +70,9 @@
     "testPathIgnorePatterns": [
       "<rootDir>node_modules/"
     ]
+  },
+  "dependencies": {
+    "@storybook/cli": "^5.2.5",
+    "global": "^4.4.0"
   }
 }

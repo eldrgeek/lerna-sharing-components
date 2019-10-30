@@ -11,7 +11,7 @@
   "dependencies": {
     "component-button": "^0.0.1",
     "component-input": "^0.0.1",
-    "helper-nearformTheme": "0.0.1",
+    "@toolmaker/helper-nearformtheme": "^0.0.1",
     "react": "^15.6.1"
   },
   "gitHead": "01b5b9472da7bc33a46f79c93e3121c9a71f1ba7"
